@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-0ku_as45vs5isd^px=t#m8g#^*x7f=w#gw-xb^t@^-pom)r^t6
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '.api.kavia.app',
     '.kavia.ai',
     'localhost',
     '127.0.0.1',
